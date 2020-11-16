@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on React Native.
 - 👯 I’m looking to collaborate with other Open Source Developers.
 - 🌱 I Love doing Competitive Programming.
-- 🥅 2020 Goals: Contribute to Open Source projects.
+- 🥅 2021 Goals: Contribute to Open Source projects.
 
 ### Connect with me:
 
