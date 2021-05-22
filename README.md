@@ -3,7 +3,7 @@
 
 ## I'm a Competitive Programmer, Software Developer and Learner.
 
-- 🔭 I’m currently working on React Native.
+- 🔭 I’m currently working on Flutter.
 - 👯 I’m looking to collaborate with other Open Source Developers.
 - 🌱 I Love doing Competitive Programming.
 - 🥅 2021 Goals: Contribute to Open Source projects.
