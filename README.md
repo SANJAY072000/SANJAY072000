@@ -3,10 +3,10 @@
 
 ## I'm a Competitive Programmer, Software Developer and Learner.
 
-- 🔭 I’m currently working on Flutter.
-- 👯 I’m looking to collaborate with other Open Source Developers.
-- 🌱 I Love doing Competitive Programming.
-- 🥅 2021 Goals: Contribute to Open Source projects.
+- 🔭 Currently exploring the field of DevOps.
+- 👯 Looking to collaborate with other Open Source Developers.
+- 🌱 Do Competitive Programming just for fun.
+- 🥅 2021 Goals: Contribute to Open Source projects and explore AWS.
 
 ### Connect with me:
 
