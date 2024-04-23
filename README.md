@@ -1,26 +1,21 @@
-### Hi there, I'm Sanjay Singh Bisht- SANJAY072000 👋
+## Hey! 👋
+I'm Sanjay Singh Bisht, a Software Engineer from India.
 
+- 👨‍💻 Working at Amazon.
 
-## I'm a Competitive Programmer, Software Developer and Learner.
+- 🧭 Spends time to optimize frontend systems.
 
-- 🔭 Currently exploring the field of DevOps.
-- 👯 Looking to collaborate with other Open Source Developers.
-- 🌱 Do Competitive Programming just for fun.
-- 🥅 2021 Goals: Contribute to Open Source projects and explore AWS.
+- 👁️ Diving deep into building a library to serialize JSON into binary format similar to protoBuff in RPC.
 
-### Connect with me:
++ a lot more ;)
 
-[<img align="left" alt="agrawalharsh90 | github" width="30px" src="https://img.icons8.com/fluent/2x/github.png" />][github]
-[<img align="left" alt="agrawalharsh90 | Twitter" width="30px" src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" />][codechef]
-[<img align="left" alt="agrawalharsh90 | LinkedIn" width="30px" src="https://img.icons8.com/fluent/2x/linkedin.png" />][linkedin]
+## Skills
+- 👨‍💻 Javascript, Frontend System Design, Frontend Optimizations.
+- ⚙️ React, Redux, React Optimizations, Unit Testing, Integration Testing.
+- 👁️ C++, Data Structures, Algorithms.
++ a lot more ;)
 
-[github]: https://github.com/SANJAY072000/
-[linkedin]: https://www.linkedin.com/in/sanjay-singh-bisht-744935180/
-[codechef]: https://www.codechef.com/users/code07freak
-
-
-<br />
-
-### Github Stats & Most Used Languages
-<img align="left" alt="Harsh Github Stats" src="https://github-readme-stats.vercel.app/api?username=SANJAY072000&show_icons=true&hide_border=true&theme=radical&private=true&count_private=true/" />
-<img align="left" alt="Harsh Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJAY072000&layout=compact" />
+## Contact
+- [@linkedin](https://www.linkedin.com/in/sanjay-singh-bisht-744935180/)
+- [@codechef](https://www.codechef.com/users/code07freak) 
+- [@codeforces](https://codeforces.com/profile/sonu_kkc)
